@@ -57,6 +57,7 @@ Discovery properties are expressed in the
                     <li>Hurtubise</li>
             		<li>Invisible Publishing</li>
             		<li>Jones and Bartlett Learning</li>
+                    <li>Lee & Low Books</li>
             		<li>Kogan Page</li>
                     <li>Linda Leith Publishing</li>
             		<li>Macmillan Learning</li>
@@ -101,6 +102,7 @@ Discovery properties are expressed in the
             		<li>Invisible Publishing</li>
             		<li>Jones and Bartlett Learning</li>
             		<li>Kogan Page</li>
+                    <li>Lee & Low Books</li>
                     <li>Linda Leith Publishing</li>
             		<li>Macmillan Learning</li>
                     <li>md</li>
@@ -144,6 +146,7 @@ Discovery properties are expressed in the
             		<li>Invisible Publishing</li>
             		<li>Jones and Bartlett Learning</li>
             		<li>Kogan Page</li>
+                    <li>Lee & Low Books</li>
                     <li>Linda Leith Publishing</li>
             		<li>Macmillan Learning</li>
                     <li>md</li>
@@ -187,6 +190,7 @@ Discovery properties are expressed in the
             		<li>Invisible Publishing</li>
             		<li>Jones and Bartlett Learning</li>
             		<li>Kogan Page</li>
+                    <li>Lee & Low Books</li>
                     <li>Linda Leith Publishing</li>
             		<li>Macmillan Learning</li>
                     <li>md</li>
@@ -230,6 +234,7 @@ Discovery properties are expressed in the
             		<li>Invisible Publishing</li>
             		<li>Jones and Bartlett Learning</li>
             		<li>Kogan Page</li>
+                    <li>Lee & Low Books</li>
                     <li>Linda Leith Publishing</li>
             		<li>Macmillan Learning</li>
                     <li>md</li>
