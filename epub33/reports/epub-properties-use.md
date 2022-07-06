@@ -134,6 +134,7 @@ Manifest properties are expressed in the
             <td>
             	<ul>
             		<li>House of Anansi Press/Groundwood Books</li>
+                    <li>Lee & Low Books</li>
                     <li>Pearson</li>
             	</ul>
             </td>
@@ -328,6 +329,7 @@ and as overrides in the
             <td>
             	<ul>
             		<li>House of Anansi Press/Groundwood Books</li>
+                    <li>Lee & Low Books</li>
             	</ul>
             </td>
         </tr>
@@ -352,6 +354,7 @@ and as overrides in the
             <td>
             	<ul>
             		<li>House of Anansi Press/Groundwood Books</li>
+                    <li>Lee & Low Books</li>
             	</ul>
             </td>
         </tr>
@@ -385,6 +388,7 @@ and as overrides in the
             	<ul>
             		<li>House of Anansi Press/Groundwood Books</li>
                     <li>Pearson</li>
+                    <li>Lee & Low Books</li>
             	</ul>
             </td>
         </tr>
@@ -484,6 +488,7 @@ Manifest properties are expressed in the
             	<ul>
             		<li>House of Anansi Press/Groundwood Books</li>
                     <li>Pearson</li>
+                    <li>Lee & Low Books</li>
             	</ul>
             </td>
         </tr>
@@ -501,6 +506,7 @@ Manifest properties are expressed in the
             	<ul>
             		<li>House of Anansi Press/Groundwood Books</li>
                     <li>Pearson</li>
+                    <li>Lee & Low Books</li>
             	</ul>
             </td>
         </tr>
@@ -561,6 +567,7 @@ Spine properties are expressed in the
             <td>
             	<ul>
             		<li>House of Anansi Press/Groundwood Books</li>
+                    <li>Lee & Low Books</li>
             	</ul>
             </td>
         </tr>
@@ -569,6 +576,7 @@ Spine properties are expressed in the
             <td>
             	<ul>
             		<li>House of Anansi Press/Groundwood Books</li>
+                    <li>Lee & Low Books</li>
             	</ul>
             </td>
         </tr>
